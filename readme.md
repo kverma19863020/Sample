@@ -1,2 +1,2 @@
 Hello World
-New command chmod - "change mode"
+command cat - "to view file"

@@ -1,2 +1,1 @@
-Hello World
-command cat - "to view file"
+commdnd cp -"copy"

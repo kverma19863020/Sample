@@ -1,4 +1,8 @@
 
 commdnd cp -"copy"
 
-command cat -"to view files"
+
+command cat -"to display content"
+
+command cd - "change directory"
+

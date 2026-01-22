@@ -1,2 +1,2 @@
 Hello World
-command chmod - "change mode"
+New command chmod - "change mode"

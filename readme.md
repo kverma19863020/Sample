@@ -23,3 +23,4 @@ Command pwd "present working directory"
 
 COmmand rm " Remove"
 
+Command touch "used to create a file"

@@ -25,4 +25,6 @@ COmmand rm " Remove"
 
 Command touch "used to create a file"
 
-Command git version " to display current version of git installed"
+Command git version " to display current version of git installed
+
+Command git log " shows commit history""

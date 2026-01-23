@@ -14,3 +14,5 @@ Command cmd-git push "used to push the changes to current branch"
 Command git status " used to see current status of verison/checkout"
 
 command ls " to list directory"
+
+Command mkdir " to make directory"

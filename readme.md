@@ -20,3 +20,6 @@ Command mkdir " to make directory"
 Command mv " move"
 
 Command pwd "present working directory"
+
+COmmand rm " Remove"
+
